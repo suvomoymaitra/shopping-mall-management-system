@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CourseProject/locals.h
+
+D:/CourseProject/main.c
+shoppingmall.c
+D:/CourseProject/shoppingmall.c
+
+D:/CourseProject/settings.h
+
+D:/CourseProject/shoppingmall.c
+shoppingmall.h
+D:/CourseProject/shoppingmall.h
+settings.h
+D:/CourseProject/settings.h
+locals.h
+D:/CourseProject/locals.h
+
+D:/CourseProject/shoppingmall.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+ctype.h
+-
+string.h
+-
+sys/stat.h
+-
+
